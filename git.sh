@@ -12,3 +12,16 @@ git config --global user.name "hunk"
 #
 git init
 
+git add
+
+git commit
+
+git status
+
+git log
+
+git reflog
+
+git reset --hard commit_id
+
+
