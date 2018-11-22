@@ -5,6 +5,9 @@ yum install -y  http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-
 
 yum install git -y
 
+git config --global user.email "hunk@heimavista.cn"
+git config --global user.name "hunk"
+
 #git 初始化仓库
 #
 git init
