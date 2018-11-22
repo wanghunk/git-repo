@@ -24,4 +24,4 @@ git reflog
 
 git reset --hard commit_id
 
-
+#
