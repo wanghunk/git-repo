@@ -6,5 +6,6 @@ yum install -y  http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-
 yum install git -y
 
 #git 初始化仓库
+#
 git init
 
